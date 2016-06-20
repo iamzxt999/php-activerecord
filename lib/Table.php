@@ -460,7 +460,7 @@ class Table
 		}
 	}
 
-	private function set_table_name()
+	protected function set_table_name()
 	{
 		if (($table = $this->class->getStaticPropertyValue('table',null)) || ($table = $this->class->getStaticPropertyValue('table_name',null)))
 			$this->table = $table;
