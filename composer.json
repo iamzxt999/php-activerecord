@@ -1,7 +1,7 @@
 {
     "name": "spraith/php-activerecord",
     "type": "library",
-    "description": "spraith/php-activerecord which extends from php-activerecord/php-activerecord is an open source ORM library based on the ActiveRecord pattern.",
+    "description": "spraith/php-activerecord is an open source ORM library which extends from php-activerecord based on the ActiveRecord pattern.",
     "keywords": ["activerecord", "orm"],
     "homepage": "http://www.phpactiverecord.org/",
     "license": "MIT",
